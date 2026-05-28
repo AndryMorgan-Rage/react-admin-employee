@@ -2,7 +2,7 @@
   "employees": [
     {
       "id": 1,
-      "firstname": "Alice",
+      "firstname": "Alice kl",
       "lastname": "Martin",
       "email": "alice@company.com",
       "department": "Informatique",
@@ -26,6 +26,15 @@
       "department": "RH",
       "salary": 2600,
       "active": false
+    },
+    {
+      "active": true,
+      "firstname": "Morgan",
+      "lastname": "Rafanoharana",
+      "email": "hei.andry.3@gmail.com",
+      "department": "Informatique",
+      "salary": 45000,
+      "id": 5
     }
   ]
 }
